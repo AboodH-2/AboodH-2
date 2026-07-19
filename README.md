@@ -15,17 +15,14 @@
 
 ### 🚀 About Me
 
-I work across the full AI lifecycle, from training models to shipping the APIs and UIs that actually put them in front of users. Currently a **Software Engineer / Technical Product Owner at Eda2at**, building a bilingual B2B service marketplace end-to-end: FastAPI + PostgreSQL backend, React frontend, real-time chat/bidding/notifications via Redis Pub/Sub and Server-Sent Events.
+I work across the full AI lifecycle, from training models to shipping the APIs and UIs that actually put them in front of users. My background spans computer vision, NLP, MLOps, and cloud deployment, combined with full-stack software engineering to turn models into real, production-facing products.
 
-On the side, I'm building **Mazad**, a bidding-based auction marketplace for the Saudi resale market, going after Haraj's static classifieds model with real auction mechanics (Next.js PWA, NestJS, Postgres/pgvector, Redis, Socket.io, Saudi PSP integrations).
+Some highlights: a 97%+ F1 loan approval model, a U-Net brain tumor segmentation pipeline, an MLflow/Airflow-orchestrated fraud detection system on 284K+ transactions, and a Kubernetes-deployed inference service handling 1,000+ concurrent requests at 99.9% uptime.
 
-My AI background spans computer vision, NLP, and MLOps: a 97%+ F1 loan approval model, a U-Net brain tumor segmentation pipeline, an MLflow/Airflow-orchestrated fraud detection system on 284K+ transactions, and a Kubernetes-deployed inference service handling 1,000+ concurrent requests at 99.9% uptime.
-
-- 🏗️ **Building:** Mazad, an auction marketplace for the Saudi resale market
-- 💼 **Day job:** Full-stack + AI feature delivery at Eda2at
+- 🔭 Focused on AI systems that ship: real-time backends, ML pipelines, and cloud deployment
 - 🎓 **Education:** B.S. Artificial Intelligence Engineering, Bahçeşehir University
 - 🪪 Member, Saudi Council of Engineers (AI Engineering Specialist)
-
+- 🏋️ Off the keyboard: bodybuilding background, now training MMA/wrestling
 
 ---
 
