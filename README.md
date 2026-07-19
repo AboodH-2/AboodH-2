@@ -22,7 +22,6 @@ Some highlights: a 97%+ F1 loan approval model, a U-Net brain tumor segmentation
 - 🔭 Focused on AI systems that ship: real-time backends, ML pipelines, and cloud deployment
 - 🎓 **Education:** B.S. Artificial Intelligence Engineering, Bahçeşehir University
 - 🪪 Member, Saudi Council of Engineers (AI Engineering Specialist)
-- 🏋️ Off the keyboard: bodybuilding background, now training MMA/wrestling
 
 ---
 
