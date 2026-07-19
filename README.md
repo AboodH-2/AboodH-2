@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdullah Mahmoud 👋</h1>
-<h3 align="center">AI Engineer — building production AI systems, not just notebooks</h3>
+<h3 align="center">AI Engineer building production AI systems, not just notebooks</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-mahmoud-261811268">
@@ -15,17 +15,17 @@
 
 ### 🚀 About Me
 
-I work across the full AI lifecycle — from training models to shipping the APIs and UIs that actually put them in front of users. Currently a **Software Engineer / Technical Product Owner at Eda2at**, building a bilingual B2B service marketplace end-to-end: FastAPI + PostgreSQL backend, React frontend, real-time chat/bidding/notifications via Redis Pub/Sub and Server-Sent Events.
+I work across the full AI lifecycle, from training models to shipping the APIs and UIs that actually put them in front of users. Currently a **Software Engineer / Technical Product Owner at Eda2at**, building a bilingual B2B service marketplace end-to-end: FastAPI + PostgreSQL backend, React frontend, real-time chat/bidding/notifications via Redis Pub/Sub and Server-Sent Events.
 
-On the side, I'm building **Mazad** — a bidding-based auction marketplace for the Saudi resale market, going after Haraj's static classifieds model with real auction mechanics (Next.js PWA, NestJS, Postgres/pgvector, Redis, Socket.io, Saudi PSP integrations).
+On the side, I'm building **Mazad**, a bidding-based auction marketplace for the Saudi resale market, going after Haraj's static classifieds model with real auction mechanics (Next.js PWA, NestJS, Postgres/pgvector, Redis, Socket.io, Saudi PSP integrations).
 
-My AI background spans computer vision, NLP, and MLOps — a 97%+ F1 loan approval model, a U-Net brain tumor segmentation pipeline, an MLflow/Airflow-orchestrated fraud detection system on 284K+ transactions, and a Kubernetes-deployed inference service handling 1,000+ concurrent requests at 99.9% uptime.
+My AI background spans computer vision, NLP, and MLOps: a 97%+ F1 loan approval model, a U-Net brain tumor segmentation pipeline, an MLflow/Airflow-orchestrated fraud detection system on 284K+ transactions, and a Kubernetes-deployed inference service handling 1,000+ concurrent requests at 99.9% uptime.
 
-- 🏗️ **Building:** Mazad — auction marketplace for the Saudi resale market
+- 🏗️ **Building:** Mazad, an auction marketplace for the Saudi resale market
 - 💼 **Day job:** Full-stack + AI feature delivery at Eda2at
 - 🎓 **Education:** B.S. Artificial Intelligence Engineering, Bahçeşehir University
 - 🪪 Member, Saudi Council of Engineers (AI Engineering Specialist)
-- 🏋️ Off the keyboard: bodybuilding background, now training MMA/wrestling
+
 
 ---
 
@@ -64,9 +64,9 @@ My AI background spans computer vision, NLP, and MLOps — a 97%+ F1 loan approv
 | Project | What it does |
 |---|---|
 | [AI-Powered Smart Robotic Arm](https://github.com/AboodH-2/AI-Powered-Smart-Robotic-Arm) | Multi-modal CV + RL + NLP system for ASL recognition, adaptive gameplay, and LLM-powered responses, with a full web interface |
-| [Credit Card Fraud Detection — MLOps](https://github.com/AboodH-2/Credit-Card-Fraud-Detection-MLflow) | End-to-end MLOps pipeline on 284,807 transactions — 99.7% accuracy, MLflow tracking, Airflow-orchestrated ETL |
-| [Brain MRI Tumor Segmentation](https://github.com/yasserzs3/U-Net-Brain-Tumor-Segmentation) | U-Net segmentation on LGG MRI + BraTS 2021 — 0.80 Dice, 0.70 IoU |
-| [ETL Microservices — Retail Sales](https://github.com/AboodH-2/ETL-Pipeline-for-Retail-Sales-Analytics) | Airflow-orchestrated, Dockerized ETL pipeline with API and trigger endpoint |
+| [Credit Card Fraud Detection: MLOps](https://github.com/AboodH-2/Credit-Card-Fraud-Detection-MLflow) | End-to-end MLOps pipeline on 284,807 transactions. 99.7% accuracy, MLflow tracking, Airflow-orchestrated ETL |
+| [Brain MRI Tumor Segmentation](https://github.com/yasserzs3/U-Net-Brain-Tumor-Segmentation) | U-Net segmentation on LGG MRI + BraTS 2021, 0.80 Dice, 0.70 IoU |
+| [ETL Microservices: Retail Sales](https://github.com/AboodH-2/ETL-Pipeline-for-Retail-Sales-Analytics) | Airflow-orchestrated, Dockerized ETL pipeline with API and trigger endpoint |
 | [Cloud-Based AI Model Deployment](https://github.com/AboodH-2/Mongodb-Statefulset-with-Miscrosoft-Azure) | Kubernetes/AKS deployment handling 1,000+ concurrent inference requests at 99.9% uptime |
 
 ---
