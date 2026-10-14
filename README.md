@@ -67,14 +67,6 @@ Some highlights: a 97%+ F1 loan approval model, a U-Net brain tumor segmentation
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AboodH-2&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboodH-2&layout=compact&hide_border=true" height="165" />
-</p>
-
----
 
 ### 📫 Let's connect
 
